@@ -1,2 +1,3 @@
 # coral_dla
-Coral like structure using diffusion limited aggregation
+Random coral like structure with Diffusion Limited Aggregation in pygame.
+
