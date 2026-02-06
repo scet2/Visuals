@@ -1,8 +1,13 @@
 ## 1. Frost simulation using Diffusion Limited Aggregation example result:
-   <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/7c0a0a44-e5c2-4e9a-b1d5-c43c123d1c67" />
+
+<img src="gifs/frost_gif.gif" width="600" height="480" alt="Frost Animation">
 
 ## 2. Coral like structure simulation using Diffusion Limited Aggregation example result:
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/be4fd521-c3cc-4d43-86c1-63dc8ec28891" />
 
+<img src="gifs/coral_gif.gif" width="600" height="480" alt="Coral Animation">
+
+## 3. Flower Simulation example results:
+
+<img src="gifs/flower_gif.gif" width="480" height="600" alt="Flower Animation">
 
 
