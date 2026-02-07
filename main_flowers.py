@@ -8,7 +8,7 @@ pygame.init()
 
 #settings
 WIDTH = 600
-HEIGHT = 800
+HEIGHT = 600
 FPS = 1
 
 clock = pygame.time.Clock()
@@ -57,7 +57,7 @@ class Flower:
                #draw the ellipse onto this surface
                pygame.draw.ellipse(surface, new_color, (center_x, center_y, cur_w, cur_h))
 
-               #draw the outline/werid effect
+               #draw the outline/weird effect
                #pygame.draw.ellipse(surface, (0, 0, 0), (center_x, center_y, cur_w, cur_h), width=1)
 
      def draw(self, screen, x, y):
@@ -79,12 +79,6 @@ class Flower:
                #create transparent surface for one petal
                master_surf = pygame.Surface((self.width, self.height), pygame.SRCALPHA)
 
-               #draw the ellipse onto this surface
-               #pygame.draw.ellipse(master_surf, row_color, (0,0,self.width,self.height))
-
-               #draw the outline
-               #pygame.draw.ellipse(master_surf, (0, 0, 0), (0,0,self.width,self.height), width=3)
-               
                self.petal(master_surf, row_color)
 
                display_surf = transform.scale_by(master_surf, cur_scale)
@@ -115,13 +109,6 @@ class Flower:
 
                cur_vector = cur_vector * 0.6
                cur_scale = cur_scale * 0.8
-
-#def random_place():
-     #x = random.randint(0, WIDTH)
-     #y = random.randint(0, HEIGHT)
-     #return x, y
-#for i in range(100):
-               #f.draw(screen, random_place[0], random_place[1])
 
 def main():
      run = True
