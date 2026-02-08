@@ -22,9 +22,9 @@ screen.fill(bg)
 #variables
 start_x, start_y = WIDTH//2, HEIGHT//2 #starting point
 x, y = start_x, start_y
-colorList = [(102, 102, 255), (112, 18, 127), (255, 204, 229), (0, 153,153), (255, 178, 102)]
+#colorList = [(102, 102, 255), (112, 18, 127), (255, 204, 229), (0, 153,153), (255, 178, 102)]
 color_index = 0
-pixelColor = screen.map_rgb((colorList[color_index]))
+pixelColor = screen.map_rgb(((112, 128, 144)))
 pixel_count = 0
 updateFlag = True
 min_x, min_y = x, y
@@ -92,9 +92,6 @@ def on_render(): #display the pixels
      if updateFlag:
           pixelArray[x, y] = pixelColor #pixel at x,y coordinates turns pixelColor
           pixel_count += 1
-          if pixel_count > max_pixel/5 * (color_index +1): 
-               color_index +=1
-               pixelColor = screen.map_rgb((colorList[color_index]))
           pygame.display.update()
           #reset update flag and random walk
           updateFlag = False 
