@@ -10,7 +10,7 @@
 
 <img src="media/flower_gif.gif" width="480" height="600" alt="Flower Animation">
 
-## 4. Simple example of Sierpinski Triangles using L-Systems:
+## 4. Simple example of the Sierpinski Triangle using L-Systems:
 
 <img src="media/sierpinskiTriangle.png" width="500" height="500" alt="Sierpinski Triangle">
 
