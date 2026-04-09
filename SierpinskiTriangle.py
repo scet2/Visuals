@@ -14,11 +14,11 @@ WIDTH = 500
 HEIGHT = 500
 FPS = 60
 
-gray = (255,255,255)
+bg_color = (40, 45, 55)
 clock = pygame.time.Clock()
 
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-screen.fill(gray)
+screen.fill(bg_color)
 
 #rules for the letters
 rules = {'S': 'FlGlG', 'F':'FlGrFrGlF', 'G':'GG'}
@@ -36,7 +36,11 @@ sent = 'S'
 length = 100
 iterations = 6
 
-colors = [(204,0,102), (255,0,127), (255,51,153), (255,102,178), (255,153,204)]
+colors = [(160, 85, 75),  
+    (190, 115, 90),  
+    (215, 145, 110), 
+    (235, 175, 140), 
+    (245, 210, 165)]
 history = []
 lengths = []
 
