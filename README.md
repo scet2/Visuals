@@ -14,4 +14,8 @@
 
 <img src="media/sierpinskiTriangle.png" width="500" height="500" alt="Sierpinski Triangle">
 
+## 4. Animated Tree using L-Systems:
+[pattern source](https://paulbourke.net/fractals/lsys/)
+
+<img src="media/tree.png" width="700" height="800" alt="tree">
 
