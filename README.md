@@ -6,11 +6,7 @@
 
 <img src="media/coral_gif.gif" width="600" height="480" alt="Coral Animation">
 
-## 3. Procedural flowers:
-
-<img src="media/flower_gif.gif" width="480" height="600" alt="Flower Animation">
-
-## 4. Simple example of the Sierpinski Triangle using L-Systems:
+## 3. Simple example of the Sierpinski Triangle using L-Systems:
 
 <img src="media/sierpinskiTriangle.png" width="500" height="500" alt="Sierpinski Triangle">
 
