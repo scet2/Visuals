@@ -10,8 +10,13 @@
 
 <img src="media/sierpinskiTriangle.png" width="500" height="500" alt="Sierpinski Triangle">
 
-## 4. Animated Tree using L-Systems:
+## 4. Tree using L-Systems:
 [pattern source](https://paulbourke.net/fractals/lsys/)
 
 <img src="media/tree.png" width="700" height="800" alt="tree">
+
+## 5. Generative Art with Perlin Noise:
+[color csv source](https://editor.p5js.org/StevesMakerspace/sketches/y3Q4xT9nP)
+
+<img src="media/perlinNoiseGif.gif" width="500" height="500" alt="perlinNoise">
 
