@@ -21,3 +21,6 @@
 
 <img src="media/tree.png" width="700" height="800" alt="tree">
 
+## 6. Watercolor effect using noise:
+<img src="media/watercolorGif.gif" width="500" height="500" alt="watercolor">
+
