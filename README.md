@@ -9,12 +9,12 @@
 <img src="media/perlinNoiseGif.gif" width="500" height="500" alt="perlinNoise">
 
 ## 3. Frost simulation using Diffusion Limited Aggregation:
-<img src="media/frost_gif.gif" width="600" height="480" alt="Frost Animation">
+<img src="media/frostGif.gif" width="600" height="480" alt="Frost Animation">
 
 ## 4. Coral like structure with DLA:
 [Original concept](https://youtu.be/4_8a8JwXLp4?si=ajxF_OPH6_p_JViL)
 
-<img src="media/coral_gif.gif" width="600" height="480" alt="Coral Animation">
+<img src="media/coralGif.gif" width="600" height="480" alt="Coral Animation">
 
 ## 5. Tree using L-Systems:
 [pattern source](https://paulbourke.net/fractals/lsys/)
