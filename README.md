@@ -1,6 +1,5 @@
-## 1. Clifford Attractors
-[code source in C++](https://paulbourke.net/fractals/clifford/paul_richards/main.cpp) <br>
-[parameter values](https://paulbourke.net/fractals/clifford/)
+## 1. Clifford Attractors with different parameter values
+[code source in C++ and parameter values](https://paulbourke.net/fractals/clifford/)
 
 <img src="media/cliffordAttractorsGif.gif" width="800" height="600" alt="CA">
 
